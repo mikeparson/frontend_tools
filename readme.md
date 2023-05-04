@@ -6,29 +6,29 @@ As a frontend developer, having access to helpful online tools can make your job
 
 This website offers a vast collection of [free SVG icons](https://icon666.com) that do not require any backlinking or attribution, making them perfect for both personal and commercial use. The SVG icons on this website cover a wide range of categories, from basic shapes to complex designs, and are all available for free download. Whether you're a designer, developer or simply looking to spice up your project with some high-quality icons, this website is the perfect resource. You can browse through the website's extensive collection of free SVG icons, sort them by category, and easily download them in different formats to suit your needs (SVG/PNG/ICO).
 
-2. ***CodePen***
+2. ***[GitHub](https://github.com)***
 
-CodePen is a popular community-driven development environment that offers a platform for showcasing and experimenting with code. It is an excellent resource for discovering new techniques and ideas for frontend development. CodePen users can share and collaborate on projects, making it an excellent tool for networking and learning from other developers.
+GitHub is a code hosting platform that allows developers to collaborate on projects. It offers version control, issue tracking, and an array of integrations that can make development more efficient. GitHub has a vast community of developers who share code, collaborate on projects, and contribute to open-source software.
 
-3. ***CSS-Tricks***
+3. ***Google Fonts***
 
-CSS-Tricks is a website created to share knowledge about CSS and related technologies. It offers tutorials and resources for everything from layout and typography to animations and responsive design. CSS-Tricks has an active community that encourages developers to share their work and help each other solve problems.
+[Google Fonts](https://fonts.google.com) is a library of web fonts that can be used without any licensing fees. The website offers over 800 fonts that can be easily integrated into your website. Google Fonts supports all major web browsers and provides easy-to-use tools for selecting and customizing fonts.
 
 4. ***CanIUse***
 
 CanIUse is a website that provides up-to-date information on browser support for the latest HTML, CSS, and JavaScript features. It is an essential resource for ensuring cross-browser compatibility in your frontend development projects. CanIUse offers compatibility tables, statistics, and detailed information about each feature's support across all major browsers.
 
-5. ***Google Fonts***
+5. ***CSS-Tricks***
 
-[Google Fonts](https://fonts.google.com) is a library of web fonts that can be used without any licensing fees. The website offers over 800 fonts that can be easily integrated into your website. Google Fonts supports all major web browsers and provides easy-to-use tools for selecting and customizing fonts.
+CSS-Tricks is a website created to share knowledge about CSS and related technologies. It offers tutorials and resources for everything from layout and typography to animations and responsive design. CSS-Tricks has an active community that encourages developers to share their work and help each other solve problems.
 
 6. ***Bootstrap***
 
 Bootstrap is an open-source framework for creating responsive websites. It includes pre-built components and styles that can be customized to fit any project. Bootstrap is easy to use and can save significant development time and effort, making it an essential tool for frontend developers.
 
-7. ***[GitHub](https://github.com)***
+7. ***CodePen***
 
-GitHub is a code hosting platform that allows developers to collaborate on projects. It offers version control, issue tracking, and an array of integrations that can make development more efficient. GitHub has a vast community of developers who share code, collaborate on projects, and contribute to open-source software.
+CodePen is a popular community-driven development environment that offers a platform for showcasing and experimenting with code. It is an excellent resource for discovering new techniques and ideas for frontend development. CodePen users can share and collaborate on projects, making it an excellent tool for networking and learning from other developers.
 
 8. ***SVGOMG***
 
