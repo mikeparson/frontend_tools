@@ -18,7 +18,7 @@ CSS-Tricks is a website created to share knowledge about CSS and related technol
 
 CanIUse is a website that provides up-to-date information on browser support for the latest HTML, CSS, and JavaScript features. It is an essential resource for ensuring cross-browser compatibility in your frontend development projects. CanIUse offers compatibility tables, statistics, and detailed information about each feature's support across all major browsers.
 
-5. Google Fonts
+5. ***Google Fonts***
 
 [Google Fonts](https://fonts.google.com) is a library of web fonts that can be used without any licensing fees. The website offers over 800 fonts that can be easily integrated into your website. Google Fonts supports all major web browsers and provides easy-to-use tools for selecting and customizing fonts.
 
