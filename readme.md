@@ -4,7 +4,7 @@ As a frontend developer, having access to helpful online tools can make your job
 
 1. ***icon666***
 
-This website offers a vast collection of [free SVG icons](https://icon666.com) that do not require any backlinking or attribution, making them perfect for both personal and commercial use. The SVG icons on this website cover a wide range of categories, from basic shapes to complex designs, and are all available for free download. Whether you're a designer, developer or simply looking to spice up your project with some high-quality icons, this website is the perfect resource. You can browse through the website's extensive collection of free SVG icons, sort them by category, and easily download them in different formats to suit your needs (SVG/PNG/ICO).
+This website offers millions of [free SVG icons](https://icon666.com) that do not require any backlinking or attribution, making them perfect for both personal and commercial use. The SVG icons on this website cover a wide range of categories, from basic shapes to complex designs, and are all available for free download. Whether you're a designer, developer or simply looking to spice up your project with some high-quality icons, this website is the perfect resource. You can browse through the website's extensive collection of free SVG icons, sort them by category, and easily download them in different formats to suit your needs (SVG/PNG/ICO).
 
 2. ***[GitHub](https://github.com)***
 
